@@ -1,0 +1,4 @@
+# 数据库初始化
+python manage.py makemigrations Simple_JWT_app
+python manage.py migrate
+python manage.py super_user

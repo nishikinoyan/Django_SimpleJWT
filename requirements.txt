@@ -1,0 +1,8 @@
+djangorestframework_simplejwt
+Django
+requests
+djangorestframework
+pycryptodome
+mysqlclient
+django-cors-headers
+django-filter
